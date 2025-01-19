@@ -1,8 +1,10 @@
+<p>
+  <img src="img/1000193087.jpg" alt="header"/>
+</p>
+
 ###  Hello, welcome to AnakPetani00 github profile! 👋
-
 [![visits Badge](https://badges.pufler.dev/visits/anakpetani13/anakpetani13)](https://badges.pufler.dev/visits/anakpetani13/anakpetani13)
-
-🎑 Some things about me:
+### 🎑 Some things about me:
 - 🎭 I believe in learn-teach-learn</li>
 - 🔭 I like data insights and am currently exploring Machine Learning</li>
 - 🌍 I am mostly active on my Blog and within the CodeProject Community</li>
@@ -12,8 +14,7 @@
 - 🌐 I am an active member of Innovation Catalyst Community</li>
 <br/>
 
-**🎑 Reach me**
-<p align="left"> 
+### **🎑 Reach me**
 <a href="https://wa.me/+6285215864522"><img src="https://img.shields.io/badge/WhatsApp-green" alt="my-whatsapp"/></a>
 <a href="https://discordapp.com/users/363175391495716887"><img src="https://img.shields.io/badge/Discord-ba03fc" alt="my-discord"/></a>
 <a href="https://www.tiktok.com/@anakpetani00"><img src="https://img.shields.io/badge/TikTok-grey" alt="my-tiktok"/></a>
