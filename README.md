@@ -1,6 +1,6 @@
-<a href=""><img src="img/1000193087.jpg" alt="my-whatsapp"/></a>
+<h2 align="center"><a href=""><img src="img/1000193087.jpg" alt="my-whatsapp"/></a>
 
-###  Hello, welcome to AnakPetani00 github profile! 👋
+<h2 align="center">###  Hello, welcome to AnakPetani00 github profile! 👋
 
 [![visits Badge](https://badges.pufler.dev/visits/anakpetani13/anakpetani13)](https://badges.pufler.dev/visits/anakpetani13/anakpetani13)
 
